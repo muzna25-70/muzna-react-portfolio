@@ -1,0 +1,18 @@
+ASSIGNMENT 1 FINAL CHECKLIST
+
+[ ] Replace profile photo placeholder
+[ ] Replace public/resume.pdf with actual resume PDF
+[ ] Replace all placeholder personal/contact information
+[ ] Replace the 3 sample projects with real projects, images and links
+[ ] Replace education placeholders with actual qualifications and dates
+[ ] Run npm install
+[ ] Run npm run dev and test all 6 pages
+[ ] Run npm run build and confirm no build errors
+[ ] Create GitHub repository and make staged commits
+[ ] Deploy to approved cloud host
+[ ] Verify live URL
+[ ] Record video showing local app + live app
+[ ] Submit live URL
+[ ] Submit GitHub URL
+[ ] Submit ZIP of source code
+[ ] Submit video URL
