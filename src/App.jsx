@@ -500,18 +500,6 @@ function Projects() {
             </div>
 
 
-            <div className="information-box">
-
-                <strong>
-                    Before submitting:
-                </strong>
-
-                Replace the three project descriptions
-                and images with your actual projects.
-                The assignment requires an image and
-                information for at least three projects.
-
-            </div>
 
         </PageLayout>
     );
